@@ -1,3 +1,1 @@
 
-Trex game, the one you play when you have no internet? That amazing game is recreated by me in p5.js web editor with a lot of efforts...
-So, please support!
